@@ -36,7 +36,7 @@ interesting if your on windows and use the WSL
 
 
 ## kicad
-kicad is a cross platform open source PCB design tool [more](./kicad.md)
+kicad is a cross platform open source PCB design tool [more](./kicad/index.md)
 
 ## git
 
